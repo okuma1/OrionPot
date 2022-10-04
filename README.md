@@ -14,3 +14,5 @@ Bibliotecas Utilizadas:
 
 # Objetivo:
 Criar um script que mata os processos do ransomware
+
+SO: Linux
