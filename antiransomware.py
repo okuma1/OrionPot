@@ -1,11 +1,10 @@
 import sys
 import time
-import logging
 from watchdog.observers import Observer
 from watchdog.events import LoggingEventHandler, FileSystemEventHandler
 from datetime import date, datetime
 from psutil import *
-from sklearn import tree
+
 
 data = date.today()
 data = datetime.now()
